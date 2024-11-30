@@ -299,11 +299,3 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 - Arduino community
 - All contributors and supporters of this project
 
-## Contact
-Project Maintainer: Tejaram chaudhari - tejaschaudhari131@gmail.com
-
-Project Developer  Shon Gaikwad  shongaikwad10169@gmail.com
-
-Project Link: https://github.com/hackersnake/Hydrobot
-
-For more information or collaboration opportunities, please contact us or open an issue in the GitHub repository.
