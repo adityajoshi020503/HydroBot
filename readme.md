@@ -1,4 +1,4 @@
-# Autonomous River Cleaning Robot with YOLOv8
+# Autonomous Water Surface Cleaning Robot with YOLOv8 and CNN
 
 ![Robot Image](hydrobot1.jpg)
 
